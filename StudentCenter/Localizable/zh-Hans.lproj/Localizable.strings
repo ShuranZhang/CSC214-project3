@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  StudentCenter
+
+  Created by Shuran Zhang on 12/2/18.
+  Copyright © 2018 University of Rochester. All rights reserved.
+*/
+"str_StudentCenter"          = "StudentCenter";
+"str_today"             = "今日";
+"str_tomorrow"          = "明日";
+"str_done"          = "完成";
+"str_updateProfile"          = "上传头像";
+"str_cancel"                            = "取消";
+"str_delete"                            = "删除";
+"str_warning"                            = "警告";
+"str_cantUndoWarning"                    = "此操作无法撤销";
+"str_deleteWarning"                     = "你确定要删除 _吗? 此操作无法撤销";
+"str_moveWarning"                       = "你确定要移动 _吗?";
+"str_move"                              = "移动";
+"str_name"                              = "姓名:";
+"str_major"                              = "专业:";
+"str_year"                              = "毕业年:";
+"str_profile"                              = "学生档案";
+"str_checkIn"                              = "登入";
+"str_checkOut"                              = "登出";
+"str_weather"                              = "本周天气";
+"str_map"                              = "校园地图";
+"str_bb"                              = "教学平台";
+"str_rmp"                              = "教授评分";
+"str_timeCheck"                              = "计时器";
+"str_mainMenu"                              = "学生中心";
+"str_workingTime"                              = "你工作了: %@小时,%@M分%@秒";
+"str_CS"                              = "计算机科学";
+"str_Math"                              = "数学";
+"str_Physics"                              = "物理";
+"str_Pawlicki"                              = "Ted Pawlicki";
+"str_Ferguson"                              = "George Ferguson";
+"str_Luo"                              = "Jiebo Luo";
+"str_Ding"                              = "Chen Ding";
+"str_Scott"                              = "Micheal Scott";
+"str_Paki"                              = "Jonathan Pakianathan";
+"str_Nicolas"                              = "Zaino Nicolas";
+"str_Douglass"                              = "Haessig Douglass";
+"str_Saul"                              = "Lubkin Saul";
+"str_Mark"                              = "Herman Mark";
+"str_Frank"                              = "Wolf Frank";
+"str_Andrew"                              = "Jordan Andrew";
+"str_John"                              = "Howell John";
+"str_Joseph"                              = "Eberly Joseph";
+"str_A"                              = "Bodek A";
+
+

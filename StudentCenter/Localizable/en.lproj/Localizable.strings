@@ -1,0 +1,89 @@
+/* 
+  Localizable.strings
+  StudentCenter
+
+  Created by Shuran Zhang on 12/2/18.
+  Copyright © 2018 University of Rochester. All rights reserved.
+*/
+
+"str_StudentCenter"          = "StudentCenter";
+"str_today"             = "Today";
+"str_tomorrow"          = "Tomorrow";
+"str_done"          = "Done";
+"str_cancel"                            = "Cancel";
+"str_delete"                            = "Delete";
+"str_warning"                            = "Warning";
+"str_cantUndoWarning"                    = "This cannot be undone!";
+"str_deleteWarning"                     = "Are you sure you want to delete _? This cannot be undone!";
+"str_moveWarning"                       = "Are you sure you want to move _?";
+"str_move"                              = "Move";
+"str_name"                              = "Name:";
+"str_major"                              = "Major:";
+"str_year"                              = "Year:";
+"str_profile"                              = "Student Profile";
+"str_checkIn"                              = "Check In";
+"str_checkOut"                              = "Check Out";
+"str_weather"                              = "Weather of the Week";
+"str_map"                              = "Campus Map";
+"str_bb"                              = "Black Board";
+"str_rmp"                              = "RateMyProfessor";
+"str_timeCheck"                              = "Timer";
+"str_mainMenu"                              = "Student Center";
+"str_workingTime"                              = "You Worked: %@Hours,%@Minutes%@Seconds";
+"str_CS"                              = "ComputerScience";
+"str_Math"                              = "Mathematics";
+"str_Physics"                              = "Physics";
+"str_Pawlicki"                              = "Ted Pawlicki";
+"str_Ferguson"                              = "George Ferguson";
+"str_Luo"                              = "Jiebo Luo";
+"str_Ding"                              = "Chen Ding";
+"str_Scott"                              = "Micheal Scott";
+"str_Paki"                              = "Jonathan Pakianathan";
+"str_Nicolas"                              = "Zaino Nicolas";
+"str_Douglass"                              = "Haessig Douglass";
+"str_Saul"                              = "Lubkin Saul";
+"str_Mark"                              = "Herman Mark";
+"str_Frank"                              = "Wolf Frank";
+"str_Andrew"                              = "Jordan Andrew";
+"str_John"                              = "Howell John";
+"str_Joseph"                              = "Eberly Joseph";
+"str_A"                              = "Bodek A";
+"str_updateProfile"          = "UpdateProfile";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

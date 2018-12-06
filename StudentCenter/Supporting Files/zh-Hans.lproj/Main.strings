@@ -1,0 +1,72 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3cG-Fx-1OX"; */
+"3cG-Fx-1OX.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5ai-p7-tQy"; */
+"5ai-p7-tQy.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "str_AccessDate"; ObjectID = "7uR-AY-rrg"; */
+"7uR-AY-rrg.text" = "str_AccessDate";
+
+/* Class = "UIButton"; normalTitle = "str_Checkin"; ObjectID = "8Ge-zR-NUo"; */
+"8Ge-zR-NUo.normalTitle" = "str_Checkin";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EQO-nq-vsj"; */
+"EQO-nq-vsj.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Weather"; ObjectID = "EmA-z5-kkk"; */
+"EmA-z5-kkk.title" = "Weather";
+
+/* Class = "UILabel"; text = "str_AppName"; ObjectID = "F6O-DE-dU5"; */
+"F6O-DE-dU5.text" = "str_AppName";
+
+/* Class = "UILabel"; text = "Year:"; ObjectID = "HAq-6N-HYK"; */
+"HAq-6N-HYK.text" = "Year:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qqe-vA-y0F"; */
+"Qqe-vA-y0F.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "?"; ObjectID = "Szq-7K-tYO"; */
+"Szq-7K-tYO.title" = "?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XC2-aF-hUX"; */
+"XC2-aF-hUX.text" = "Label";
+
+/* Class = "UILabel"; text = "str_Profile"; ObjectID = "Zvy-Xh-lAW"; */
+"Zvy-Xh-lAW.text" = "str_Profile";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aHm-GN-Zk8"; */
+"aHm-GN-Zk8.text" = "Label";
+
+/* Class = "UILabel"; text = "str_Launch"; ObjectID = "aWX-bR-fwT"; */
+"aWX-bR-fwT.text" = "str_Launch";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "bbG-BK-E6Y"; */
+"bbG-BK-E6Y.text" = "Name:";
+
+/* Class = "UILabel"; text = "str_Version"; ObjectID = "cHC-qg-X1P"; */
+"cHC-qg-X1P.text" = "str_Version";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cJB-8R-nuu"; */
+"cJB-8R-nuu.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iF7-dJ-Yjx"; */
+"iF7-dJ-Yjx.text" = "Label";
+
+/* Class = "UILabel"; text = "Major:"; ObjectID = "lWo-MC-VUQ"; */
+"lWo-MC-VUQ.text" = "Major:";
+
+/* Class = "UIButton"; normalTitle = "str_Checkout"; ObjectID = "mLH-hb-ojl"; */
+"mLH-hb-ojl.normalTitle" = "str_Checkout";
+
+/* Class = "UILabel"; text = "str_CopyRight"; ObjectID = "q8X-uv-dSv"; */
+"q8X-uv-dSv.text" = "str_CopyRight";
+
+/* Class = "UIButton"; normalTitle = "Update Profile "; ObjectID = "til-rq-DGN"; */
+"til-rq-DGN.normalTitle" = "Update Profile ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yja-xY-57w"; */
+"yja-xY-57w.text" = "Label";
+
+/* Class = "UILabel"; text = "str_Build"; ObjectID = "ykp-kH-pnd"; */
+"ykp-kH-pnd.text" = "str_Build";
